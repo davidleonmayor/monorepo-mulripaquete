@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+yarn.lock
+
+# Logs
+*.log
+
+# Lerna
+/packages/*/node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
